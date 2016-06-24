@@ -1,9 +1,10 @@
--- { name = "Muldraugh, KY, Profession Based Spawn", file = "media/maps/Muldraugh, KY - Profession Based Spawn/spawnregions.lua" },
+-- { name = "Muldraugh, KY - Spawn At Your Work", file = "media/maps/Muldraugh, KY - Profession/spawnregions.lua" },
 
 function SpawnPoints()
     return {
         unemployed = {
-            {worldX=35, worldY=32, posX=124, posY=99} -- Knox Bank
+            {worldX=35, worldY=32, posX=124, posY=99}, -- Knox Bank
+            {worldX=35, worldY=33, posX=117, posY=255}, -- Tattoo 42 (Guest)
         },
         -- Law and Order
         policeofficer = {
@@ -13,16 +14,18 @@ function SpawnPoints()
             {worldX=35, worldY=34, posX=134, posY=211}, -- Police Station
             {worldX=35, worldY=34, posX=134, posY=211}, -- Police Station
             {worldX=35, worldY=34, posX=140, posY=201}, -- Police Station (Locker Room)
-            {worldX=35, worldY=34, posX=140, posY=201} -- Police Station (Locker Room)
+            {worldX=35, worldY=34, posX=140, posY=201}, -- Police Station (Locker Room)
         },
         securityguard = {
-            -- 35x34
+        
+            {worldX=35, worldY=34, posX=109, posY=177}, -- Mini mall (Clothing)
+            {worldX=35, worldY=34, posX=110, posY=167}, -- Mini mall (Books)
+            {worldX=35, worldY=34, posX=107, posY=131}, -- Mini mall (Clothing2)
             {worldX=35, worldY=34, posX=202, posY=255}, -- Warehouses
             -- 35x32
             {worldX=35, worldY=32, posX=125, posY=97}, -- Knox Bank
             {worldX=35, worldY=32, posX=125, posY=97}, -- Knox Bank
-            {worldX=35, worldY=32, posX=125, posY=97}, -- Knox Bank
-            {worldX=35, worldY=32, posX=124, posY=93} -- Knox Bank (Camera Room)
+            {worldX=35, worldY=32, posX=124, posY=93}, -- Knox Bank (Camera Room)
         },
         parkranger = {
 
@@ -44,7 +47,7 @@ function SpawnPoints()
             -- 35x34
             {worldX=35, worldY=34, posX=202, posY=255}, -- Warehouses
             -- 35x32
-            {worldX=35, worldY=34, posX=109, posY=143} -- Mini mall (Office)
+            {worldX=35, worldY=34, posX=109, posY=143}, -- Mini mall (Office)
         },
         itworker = {
 
@@ -63,20 +66,28 @@ function SpawnPoints()
             {worldX=35, worldY=34, posX=174, posY=138}, -- Offices (RandomRoom F)
             {worldX=35, worldY=34, posX=173, posY=132}, -- Offices (RandomRoom G)
             {worldX=35, worldY=34, posX=184, posY=118}, -- Offices (RandomRoom H)
-            {worldX=35, worldY=34, posX=188, posY=116} -- Offices (RandomRoom I)
+            {worldX=35, worldY=34, posX=188, posY=116}, -- Offices (RandomRoom I)
+            -- 35x32
+            {worldX=35, worldY=32, posX=124, posY=99, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=98, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=88, posZ=1}, -- Knox Bank
         },
         secretary = {
+            -- 35x34
+            {worldX=35, worldY=34, posX=178, posY=156}, -- Offices (RandomRoom A)
             -- 35x32
             {worldX=35, worldY=32, posX=129, posY=90}, -- Knox Bank Backroom
-            {worldX=35, worldY=32, posX=129, posY=90} -- Knox Bank Backroom
+            {worldX=35, worldY=32, posX=124, posY=88, posZ=1}, -- Knox Bank
         },
         accountant = {
             -- 35x32
-            {worldX=35, worldY=32, posX=125, posY=97}, -- Knox Bank
-            {worldX=35, worldY=32, posX=125, posY=97}, -- Knox Bank
-            {worldX=35, worldY=32, posX=125, posY=97}, -- Knox Bank
+            {worldX=35, worldY=32, posX=125, posY=98}, -- Knox Bank
             {worldX=35, worldY=32, posX=129, posY=90}, -- Knox Bank Backroom
-            {worldX=35, worldY=32, posX=129, posY=90} -- Knox Bank Backroom
+            {worldX=35, worldY=32, posX=124, posY=99, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=98, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=88, posZ=1}, -- Knox Bank
+            
+            {worldX=35, worldY=33, posX=126, posY=259}, -- Knox Bank
         },
         
         teacher = {
@@ -90,7 +101,8 @@ function SpawnPoints()
         -- Shops
         salesperson = {
             -- 35x34
-            {worldX=35, worldY=34, posX=109, posY=123} -- Mini mall (Barber)
+            {worldX=35, worldY=34, posX=109, posY=123}, -- Mini mall (Barber)
+            {worldX=35, worldY=33, posX=117, posY=255}, -- Tattoo 42
         },
         cashier = {
             -- 35x35
@@ -112,6 +124,7 @@ function SpawnPoints()
             {worldX=35, worldY=34, posX=107, posY=131}, -- Mini mall (Clothing2)
             {worldX=35, worldY=34, posX=107, posY=123}, -- Mini mall (Barber)
             {worldX=35, worldY=34, posX=113, posY=58}, -- Greene's Grocery
+            {worldX=35, worldY=33, posX=117, posY=255}, -- Tattoo 42
             -- 36x33
             {worldX=36, worldY=33, posX=40, posY=132}, -- Convenience Store
         },

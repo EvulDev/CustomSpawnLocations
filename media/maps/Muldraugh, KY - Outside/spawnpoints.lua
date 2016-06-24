@@ -1,4 +1,4 @@
--- { name = "Muldraugh, KY - Outsider", file = "media/maps/Muldraugh, KY - Outside/spawnregions.lua" },
+-- { name = "Muldraugh, KY - Spawn As A Outsider", file = "media/maps/Muldraugh, KY - Outside/spawnregions.lua" },
 
 function SpawnPoints()
     return {
