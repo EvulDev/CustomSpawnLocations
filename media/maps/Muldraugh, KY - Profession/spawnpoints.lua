@@ -3,9 +3,14 @@
 function SpawnPoints()
     return {
         unemployed = {
-            {worldX=35, worldY=32, posX=124, posY=99}, -- Knox Bank
+            {worldX=35, worldY=32, posX=124, posY=99}, -- Knox Bank (Guest)
             {worldX=35, worldY=33, posX=117, posY=255}, -- Tattoo 42 (Guest)
+            
+            --{worldX=35, worldY=33, posX=127, posY=59}, -- Elementry school (Student)
+            --{worldX=35, worldY=33, posX=126, posY=79}, -- Elementry school (Student)
+            {worldX=35, worldY=33, posX=146, posY=6}, -- Adult Education Center (Student)
         },
+
         -- Law and Order
         policeofficer = {
             -- 35x34
@@ -34,6 +39,7 @@ function SpawnPoints()
 
         },
         
+        
         -- Health
         doctor = {
 
@@ -42,12 +48,14 @@ function SpawnPoints()
 
         },
         
+        
         -- Bank, Office and other Administrative jobs
         customerservice = {
             -- 35x34
             {worldX=35, worldY=34, posX=202, posY=255}, -- Warehouses
-            -- 35x32
             {worldX=35, worldY=34, posX=109, posY=143}, -- Mini mall (Office)
+            -- 35x32
+            {worldX=35, worldY=32, posX=150, posY=16}, -- Cafeteria Office
         },
         itworker = {
 
@@ -57,6 +65,14 @@ function SpawnPoints()
         },
         officeworker = {
             -- 35x34
+            {worldX=35, worldY=34, posX=202, posY=255}, -- Warehouses
+            {worldX=35, worldY=34, posX=202, posY=255}, -- Warehouses
+            {worldX=35, worldY=34, posX=202, posY=255}, -- Warehouses
+            {worldX=35, worldY=34, posX=202, posY=255}, -- Warehouses
+            {worldX=35, worldY=34, posX=202, posY=255}, -- Warehouses
+            {worldX=35, worldY=34, posX=202, posY=255}, -- Warehouses
+            {worldX=35, worldY=34, posX=202, posY=255}, -- Warehouses
+            {worldX=35, worldY=34, posX=202, posY=255}, -- Warehouses
             {worldX=35, worldY=34, posX=202, posY=255}, -- Warehouses
             {worldX=35, worldY=34, posX=178, posY=156}, -- Offices (RandomRoom A)
             {worldX=35, worldY=34, posX=189, posY=158}, -- Offices (RandomRoom B)
@@ -69,7 +85,35 @@ function SpawnPoints()
             {worldX=35, worldY=34, posX=188, posY=116}, -- Offices (RandomRoom I)
             -- 35x32
             {worldX=35, worldY=32, posX=124, posY=99, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=99, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=99, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=99, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=99, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=99, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=99, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=99, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=99, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=99, posZ=1}, -- Knox Bank (Office)
             {worldX=35, worldY=32, posX=124, posY=98, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=98, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=98, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=98, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=98, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=98, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=98, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=98, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=98, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=98, posZ=1}, -- Knox Bank (Office)
+            {worldX=35, worldY=32, posX=124, posY=88, posZ=1}, -- Knox Bank
+            {worldX=35, worldY=32, posX=124, posY=88, posZ=1}, -- Knox Bank
+            {worldX=35, worldY=32, posX=124, posY=88, posZ=1}, -- Knox Bank
+            {worldX=35, worldY=32, posX=124, posY=88, posZ=1}, -- Knox Bank
+            {worldX=35, worldY=32, posX=124, posY=88, posZ=1}, -- Knox Bank
+            {worldX=35, worldY=32, posX=124, posY=88, posZ=1}, -- Knox Bank
+            {worldX=35, worldY=32, posX=124, posY=88, posZ=1}, -- Knox Bank
+            {worldX=35, worldY=32, posX=124, posY=88, posZ=1}, -- Knox Bank
+            {worldX=35, worldY=32, posX=124, posY=88, posZ=1}, -- Knox Bank
+            {worldX=35, worldY=32, posX=124, posY=88, posZ=1}, -- Knox Bank
             {worldX=35, worldY=32, posX=124, posY=88, posZ=1}, -- Knox Bank
         },
         secretary = {
@@ -86,18 +130,24 @@ function SpawnPoints()
             {worldX=35, worldY=32, posX=124, posY=99, posZ=1}, -- Knox Bank (Office)
             {worldX=35, worldY=32, posX=124, posY=98, posZ=1}, -- Knox Bank (Office)
             {worldX=35, worldY=32, posX=124, posY=88, posZ=1}, -- Knox Bank
-            
+            -- 35x33
             {worldX=35, worldY=33, posX=126, posY=259}, -- Knox Bank
         },
         
         teacher = {
             -- 35x34
             {worldX=35, worldY=34, posX=199, posY=164}, -- Offices (RandomRoom A)
+            -- 35x33
+            {worldX=35, worldY=33, posX=199, posY=164}, -- Elementry school
+            {worldX=35, worldY=33, posX=121, posY=59}, -- Elementry school
+            {worldX=35, worldY=33, posX=136, posY=5}, -- Adult Education Center
+            {worldX=35, worldY=33, posX=152, posY=6}, -- Adult Education Center
         },
         janitor = {
 
         },
-
+        
+        
         -- Shops
         salesperson = {
             -- 35x34
@@ -114,8 +164,8 @@ function SpawnPoints()
             {worldX=35, worldY=34, posX=113, posY=58}, -- Greene's Grocery
             -- 35x33
             {worldX=36, worldY=33, posX=40, posY=132}, -- Convenience Store
-            -- 36x33
-            {worldX=36, worldY=33, posX=40, posY=132}, -- Convenience Store
+            {worldX=36, worldY=33, posX=40, posY=132}, -- Adult Education Center Clothing Shop
+            {worldX=36, worldY=33, posX=123, posY=9}, -- Adult Education Center Shop
         },
         shopclerk = {
             -- 35x34
@@ -129,12 +179,15 @@ function SpawnPoints()
             {worldX=36, worldY=33, posX=40, posY=132}, -- Convenience Store
         },
         
+        
         -- Resturants
         fastfoodcook = {
             -- 35x35
             {worldX=35, worldY=35, posX=119, posY=61}, -- Diner
             -- 35x34
             {worldX=35, worldY=34, posX=114, posY=104}, -- Mini mall (Resturant)
+            -- 35x33
+            {worldX=35, worldY=33, posX=111, posY=69}, -- Elementry school
         },
         
         chef = {
@@ -146,12 +199,15 @@ function SpawnPoints()
             {worldX=35, worldY=35, posX=125, posY=34}, -- Resturant
             -- 35x34
             {worldX=35, worldY=34, posX=114, posY=104}, -- Mini mall (Resturant)
+            -- 35x33
+            {worldX=35, worldY=33, posX=111, posY=69}, -- Elementry school
         },
         waiter = {
             -- 35x35
             {worldX=35, worldY=35, posX=260, posY=49}, -- Tavern
             {worldX=35, worldY=35, posX=119, posY=27}, -- Resturant
         },
+        
         
         -- Crimenal
         burglar = {
@@ -167,6 +223,7 @@ function SpawnPoints()
             {worldX=35, worldY=34, posX=133, posY=207}, -- Jail Cell
         },
         
+        
         -- Misc
         farmer = {
             -- 35x34
@@ -179,6 +236,7 @@ function SpawnPoints()
             {worldX=35, worldY=35, posX=119, posY=61}, -- Diner
             {worldX=35, worldY=35, posX=262, posY=54}, -- Tavern
         },
+        
         
         -- Special
         militarysoldier = {
