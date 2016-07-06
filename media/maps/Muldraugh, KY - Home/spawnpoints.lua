@@ -490,29 +490,47 @@ function SpawnPoints()
             {worldX=36, worldY=31, posX=117, posY=189}, -- Trailer
             {worldX=36, worldY=31, posX=150, posY=183}, -- Trailer
         },
-    
-    -- Middleclass
-    
-    -- Highclass
-    
-    -- Other
-        doctor = {
-            {worldX=36, worldY=33, posX=78, posY=129, posZ=1}, -- Cortman Medical (Upstairs)
-        },
-        
-        
-        
-        policeofficer = {
-        },
         securityguard = {
+        },
+    -- Middleclass
+        policeofficer = {
         },
         parkranger = {
         },
         fireofficer = {
         },
+        doctor = {
+            {worldX=36, worldY=33, posX=78, posY=129, posZ=1}, -- Cortman Medical (Upstairs)
+        },
+     
+
+    -- Highclass
+    
+    -- Other
+   
+        
+        
         nurse = {
         },
         customerservice = {
+        },
+        constructionworker = {
+        },
+        engineer = {
+        },
+        electrician = {
+        },
+        fitnessInstructor = {
+        },
+        lumberjack = {
+        },
+        veteran = {
+        },
+        fisherman = {
+        },
+        repairman = {
+        },
+        carpenter = {
         },
         itworker = {
         },
@@ -538,7 +556,6 @@ function SpawnPoints()
         },
         cook = {
         },
-
         farmer = {
         },
         truckdriver = {
