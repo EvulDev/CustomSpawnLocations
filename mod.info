@@ -1,5 +1,5 @@
-name=Custom Spawn Locations
-poster=poster.png
+name=Custom Spawn Locations (DEV)
+poster=preview.png
 id=CustomSpawnLocations
-description=Project Zomboid's Example Mod
-url=http://theindiestone.com/forums/index.php/topic/2011-how-to-use-the-upcoming-modloader/
+description=This mod adds a bunch of custom spawpoints to the game.
+url=https://github.com/EvulDev/CustomSpawnLocations
