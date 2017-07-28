@@ -1,5 +1,6 @@
 # Project Zomboid Custom Spawn Locations
-[![Puppet Forge](https://img.shields.io/puppetforge/dt/camptocamp/openldap.svg)]()
+[![Puppet Forge](https://img.shields.io/puppetforge/dt/camptocamp/openldap.svg)](https://github.com/EvulDev/CustomSpawnLocations)
+
 Custom Spawn Locations is a Project Zomboid mod.
 
 ## Profession spawn
