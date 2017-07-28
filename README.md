@@ -1,5 +1,12 @@
 # Project Zomboid Custom Spawn Locations
-[![Puppet Forge](https://img.shields.io/puppetforge/dt/camptocamp/openldap.svg)](https://github.com/EvulDev/CustomSpawnLocations)
+
+[![GitHub release](https://img.shields.io/github/release/EvulDev/CustomSpawnLocations.svg)](https://github.com/EvulDev/CustomSpawnLocations/releases)   [![](https://img.shields.io/github/issues-raw/EvulDev/CustomSpawnLocations.svg)](https://github.com/EvulDev/CustomSpawnLocations/issues)   [![label](https://img.shields.io/github/issues-raw/EvulDev/CustomSpawnLocations/website.svg)](https://github.com/EvulDev/CustomSpawnLocations/issues)   [![Github Releases](https://img.shields.io/github/downloads/EvulDev/CustomSpawnLocations/latest/total.svg)](https://github.com/EvulDev/CustomSpawnLocations/releases)
+
+
+[![GitHub tag](https://img.shields.io/github/tag/expressjs/express.svg)](https://github.com/EvulDev/CustomSpawnLocations/tags)
+
+
+[![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/EvulDev/CustomSpawnLocations/master/LICENSE)
 
 Custom Spawn Locations is a Project Zomboid mod.
 
