@@ -1,9 +1,9 @@
 # Project Zomboid Custom Spawn Locations
 
-[![GitHub release](https://img.shields.io/github/release/EvulDev/CustomSpawnLocations.svg)](https://github.com/EvulDev/CustomSpawnLocations/releases) 
-[![label](https://img.shields.io/github/issues-raw/EvulDev/CustomSpawnLocations/website.svg)](https://github.com/EvulDev/CustomSpawnLocations/issues) 
-[![Github Releases](https://img.shields.io/github/downloads/EvulDev/CustomSpawnLocations/latest/total.svg)](https://github.com/EvulDev/CustomSpawnLocations/releases)
-[![](https://img.shields.io/badge/steam_workshop-subscribe-yellowgreen.svg)](http://steamcommunity.com/sharedfiles/filedetails/?id=718782525)
+[![GitHub release](https://img.shields.io/github/release/EvulDev/CustomSpawnLocations.svg?style=plastic&label=Release%20Build)](https://github.com/EvulDev/CustomSpawnLocations/releases) 
+[![label](https://img.shields.io/github/issues-raw/EvulDev/CustomSpawnLocations/website.svg?style=plastic&label=Issues)](https://github.com/EvulDev/CustomSpawnLocations/issues) 
+[![Github Releases](https://img.shields.io/github/downloads/EvulDev/CustomSpawnLocations/latest/total.svg?style=plastic&label=Downloads)](https://github.com/EvulDev/CustomSpawnLocations/releases)
+[![](https://img.shields.io/badge/Steam_Workshop-Subscribe-yellowgreen.svg?style=plastic)](http://steamcommunity.com/sharedfiles/filedetails/?id=718782525)
 
 Custom Spawn Locations is a Project Zomboid mod.
 
