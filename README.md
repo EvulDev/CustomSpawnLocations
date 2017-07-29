@@ -31,12 +31,12 @@ All spawn are partly based on the size of the location and department.
 |                             |                                             |                       |
 |**Fire Officer**             | Rosewood - Fire Department                  | 100%                  |
 |                             |                                             |                       |
-|**burgerflipper**            | Valley Station - Diners and fast food       | 7%                    |
-|**burgerflipper**            | Valley Station Mall - Fast food             | 19%                   |
-|**burgerflipper**            | West Point - Diners and fast food           | 15%                   |
-|**burgerflipper**            | West Point Road - Diners and fast food      | 7%                    |
-|**burgerflipper**            | Muldraugh - Diners and fast food            | 22%                   |
-|**burgerflipper**            | Muldraugh Road - Diners and fast food       | 7%                    |
-|**burgerflipper**            | Rosewood - Diners and fast food             | 22%                   |
+|**Burger Flipper**            | Valley Station - Diners and fast food       | 7%                    |
+|**Burger Flipper**            | Valley Station Mall - Fast food             | 19%                   |
+|**Burger Flipper**            | West Point - Diners and fast food           | 15%                   |
+|**Burger Flipper**            | West Point Road - Diners and fast food      | 7%                    |
+|**Burger Flipper**            | Muldraugh - Diners and fast food            | 22%                   |
+|**Burger Flipper**            | Muldraugh Road - Diners and fast food       | 7%                    |
+|**Burger Flipper**            | Rosewood - Diners and fast food             | 22%                   |
 
 *Note: Chance is Calculated per profession*
