@@ -8,6 +8,7 @@
 Custom Spawn Locations is a Project Zomboid mod.
 
 ## Profession spawn
+All spawn are partly based on the size of the location and department.
 
 |Professions                  | Location                                    | Chance of spawn (%)   |
 |-----------------------------|---------------------------------------------|----------------------:|
