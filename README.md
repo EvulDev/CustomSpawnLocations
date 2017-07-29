@@ -30,4 +30,13 @@ All spawn are partly based on the size of the location and department.
 |**Nurse**                    | Rosewood - Prison                           | 13%                   |
 |                             |                                             |                       |
 |**Fire Officer**             | Rosewood - Fire Department                  | 100%                  |
-+ *Chance is Calculated per profession*
+|                             |                                             |                       |
+|**burgerflipper**            | Valley Station - Diners and fast food       | 7%                    |
+|**burgerflipper**            | Valley Station Mall - Fast food             | 19%                   |
+|**burgerflipper**            | West Point - Diners and fast food           | 15%                   |
+|**burgerflipper**            | West Point Road - Diners and fast food      | 7%                    |
+|**burgerflipper**            | Muldraugh - Diners and fast food            | 22%                   |
+|**burgerflipper**            | Muldraugh Road - Diners and fast food       | 7%                    |
+|**burgerflipper**            | Rosewood - Diners and fast food             | 22%                   |
+
+*Note: Chance is Calculated per profession*
