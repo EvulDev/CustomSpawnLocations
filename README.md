@@ -8,7 +8,7 @@
 Custom Spawn Locations is a Project Zomboid mod.
 
 ## Profession spawn
-All spawn are partly based on the size of the location and department.
+All spawn chanses are partly based on the size of the location and department as well as playability. Burger places and diners that is situated super off have a lower chanse of spawn then a mid-town diner for instance.
 
 |Professions                  | Location                                    | Chance of spawn (%)   |
 |-----------------------------|---------------------------------------------|----------------------:|
@@ -31,12 +31,16 @@ All spawn are partly based on the size of the location and department.
 |                             |                                             |                       |
 |**Fire Officer**             | Rosewood - Fire Department                  | 100%                  |
 |                             |                                             |                       |
-|**Burger Flipper**            | Valley Station - Diners and fast food       | 7%                    |
-|**Burger Flipper**            | Valley Station Mall - Fast food             | 19%                   |
-|**Burger Flipper**            | West Point - Diners and fast food           | 15%                   |
-|**Burger Flipper**            | West Point Road - Diners and fast food      | 7%                    |
-|**Burger Flipper**            | Muldraugh - Diners and fast food            | 22%                   |
-|**Burger Flipper**            | Muldraugh Road - Diners and fast food       | 7%                    |
-|**Burger Flipper**            | Rosewood - Diners and fast food             | 22%                   |
+|**Burger Flipper**           | Valley Station - Diners and fast food       | 7%                    |
+|**Burger Flipper**           | Valley Station Mall - Fast food             | 19%                   |
+|**Burger Flipper**           | West Point - Diners and fast food           | 15%                   |
+|**Burger Flipper**           | West Point Road - Diners and fast food      | 7%                    |
+|**Burger Flipper**           | Muldraugh - Diners and fast food            | 22%                   |
+|**Burger Flipper**           | Muldraugh Road - Diners and fast food       | 7%                    |
+|**Burger Flipper**           | Rosewood - Diners and fast food             | 22%                   |
 
 *Note: Chance is Calculated per profession*
+
+## Prison Spawn
+This spawn will spawn you in as a prisoner, prison guard or medical staff in Rosewood Correctional Facility.
+In order to spawn as a Guard or Medical Staff you need to select the `Police Officer`, `Security Guard`, `Doctor` or `Nurse` all other profesions will spawn you in a cell.
