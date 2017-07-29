@@ -27,6 +27,7 @@ All spawn are partly based on the size of the location and department.
 |**Nurse**                    | West Point - Pharmahug                      | 13%                   |
 |**Nurse**                    | West Point - Dentist                        | 22%                   |
 |**Nurse**                    | Rosewood - Medical                          | 35%                   |
-|**Nurse**                    | Rosewood - Prison (WIP)                     | 13%                   |
-
+|**Nurse**                    | Rosewood - Prison                           | 13%                   |
+|                             |                                             |                       |
+|**Fire Officer**             | Rosewood - Fire Department                  | 100%                  |
 + *Chance is Calculated per profession*
