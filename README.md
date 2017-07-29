@@ -11,9 +11,10 @@ Custom Spawn Locations is a Project Zomboid mod.
 
 Professions                  | Location                                    | Chance of spawn (%)   |
 -----------------------------|---------------------------------------------|----------------------:|
-**Police officer**           | Muldraugh - Police Station                  | 22%                   |
-**Police officer**           | West Point - Police Station                 | 43%                   |
-**Police officer**           | Rosewood KN Prison                          | 35%                   |
+**Police officer**           | Muldraugh - Police Station                  | 18%                   |
+**Police officer**           | West Point - Police Station                 | 32%                   |
+**Police officer**           | Rosewood - Police Station                   | 24%                   |
+**Police officer**           | Rosewood - Prison                           | 26%                   |
 **Doctor**                   | Muldraugh - Cortman Medical                 | WIP                   |
 **Doctor**                   | West Point - Pharmahug                      | WIP                   |
 **Doctor**                   | West Point - Dentist                        | WIP                   |
