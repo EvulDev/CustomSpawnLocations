@@ -9,6 +9,7 @@ Custom Spawn Locations is a Project Zomboid mod.
 
 ## Profession spawn
 All spawn chanses are partly based on the size of the location and department as well as playability. Burger places and diners that is situated super off have a lower chanse of spawn then a mid-town diner for instance.
+The Knox County spawn location option spawns you in on a random location based on the spawn chanes vissable below. Town specific span you in the designated town and will limit the randomnes for obvies reasons (see police officer).
 
 |Professions                  | Location                                    | Chance of spawn (%)   |
 |-----------------------------|---------------------------------------------|----------------------:|
