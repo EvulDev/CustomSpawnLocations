@@ -8,8 +8,8 @@
 Custom Spawn Locations is a Project Zomboid mod.
 
 ## Profession spawn
-All spawn chanses are partly based on the size of the location and department as well as playability. Burger places and diners that is situated super off have a lower chanse of spawn then a mid-town diner for instance.
-The Knox County spawn location option spawns you in on a random location based on the spawn chanes vissable below. Town specific span you in the designated town and will limit the randomnes for obvies reasons (see police officer).
+All spawn chances are partly based on the size of the location and department as well as playability. Burger places and diners that is situated super off have a lower chance of spawn then a mid-town diner for instance.
+The Knox County spawn location option spawns you in on a random location based on the spawn chances in the table below. Town specific spawn you in the designated town and will limit the randomness for obvious reasons (see police officer).
 
 |Professions                  | Location                                    | Chance of spawn (%)   |
 |-----------------------------|---------------------------------------------|----------------------:|
@@ -44,4 +44,10 @@ The Knox County spawn location option spawns you in on a random location based o
 
 ## Prison Spawn
 This spawn will spawn you in as a prisoner, prison guard or medical staff in Rosewood Correctional Facility.
-In order to spawn as a Guard or Medical Staff you need to select the `Police Officer`, `Security Guard`, `Doctor` or `Nurse` all other profesions will spawn you in a cell.
+In order to spawn as a Guard or Medical Staff you need to select the `Police Officer`, `Security Guard`, `Doctor` or `Nurse` all other professions will spawn you in a cell.
+
+## Hotel Spawn
+This spawn will spawn you in your room of a inn, hotel or motel. Enjoy your stay.
+
+## Mall Spawn
+This little special spawn spawns you in the large mall as a guest.
