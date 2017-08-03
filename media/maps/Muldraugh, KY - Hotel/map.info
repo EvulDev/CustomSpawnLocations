@@ -1,4 +1,7 @@
 title=Muldraugh, KY - Hotel Room
 lots=West Point, KY
 fixed2x=true
-description=Muldraugh, KY - Hotel Room
+description=Muldraugh, KY - Hotel Room <LINE> <LINE> 
+description= This spawn will spawn you in a room some were in the 
+description= Muldraugh many hotels and motels. <LINE> <LINE> Have a nice stay.
+

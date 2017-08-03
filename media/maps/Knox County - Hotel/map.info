@@ -1,4 +1,6 @@
 title=Knox County, KY - Hotel Room
 lots=West Point, KY
 fixed2x=true
-description=Knox County, KY - Hotel Room
+description=Knox County, KY - Hotel Room <LINE> <LINE> 
+description= This spawn will spawn you in a room some were in the 
+description= Knox County many hotels and motels. <LINE> <LINE> Have a nice stay.

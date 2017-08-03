@@ -1,4 +1,8 @@
 title=West Point, KY - Hotel Room
 lots=West Point, KY
 fixed2x=true
-description=West Point, KY - In Your Hotel Room
+description=West Point, KY - In Your Hotel Room <LINE> <LINE> 
+description= This spawn will spawn you in a room some were in the 
+description= West Point few hotels and motels. <LINE> <LINE> Have a nice stay.
+
+

@@ -4,7 +4,7 @@ function SpawnPoints()
     return {
         unemployed = {
             
-            -- {worldX=35, worldY=34, posX=251, posY=244},         --Trailer [1] (Condemed)
+            -- {worldX=35, worldY=34, posX=251, posY=244},         --Trailer [1] (Condemned)
             {worldX=35, worldY=34, posX=251, posY=230},         --Trailer [1]
             {worldX=35, worldY=34, posX=270, posY=235},         --Trailer [1]
             {worldX=36, worldY=34, posX=7, posY=221},           --Trailer [1]
@@ -46,7 +46,37 @@ function SpawnPoints()
             {worldX=35, worldY=33, posX=294, posY=175, posZ=1}, --House [2]
             {worldX=36, worldY=33, posX=8, posY=174},           --House [2]
             
-            {worldX=36, worldY=33, posX=38, posY=286, posZ=1}, --House [2]   "Under the Manse"
+            {worldX=36, worldY=33, posX=39, posY=285, posZ=1},  --House [3]
+            {worldX=36, worldY=33, posX=39, posY=255, posZ=1},  --House [3]
+            {worldX=36, worldY=33, posX=42, posY=220, posZ=1},  --House [3]
+            {worldX=36, worldY=33, posX=39, posY=255, posZ=1},  --House [3]
+            -- {worldX=36, worldY=33, posX=38, posY=181, posZ=0},  --House [3] (For Sale)
+            {worldX=36, worldY=33, posX=72, posY=293, posZ=1},  --House [3]
+            {worldX=36, worldY=33, posX=93, posY=259, posZ=1},  --House [3]
+            {worldX=36, worldY=33, posX=74, posY=222, posZ=1},  --House [3]
+            {worldX=36, worldY=33, posX=78, posY=182, posZ=1},  --House [3]
+            {worldX=36, worldY=33, posX=121, posY=232, posZ=1}, --House [3]
+            {worldX=36, worldY=33, posX=122, posY=201, posZ=1}, --House [3]
+            
+            -- {worldX=36, worldY=33, posX=77, posY=132, posZ=1}, --Cortman Medical [3]
+            {worldX=36, worldY=33, posX=78, posY=102},          --House [1]
+            {worldX=36, worldY=33, posX=114, posY=133},         --House [1]
+            {worldX=36, worldY=33, posX=114, posY=133},         --House [1]
+            -- {worldX=36, worldY=33, posX=114, posY=133},         --House [1] (Empty)
+            {worldX=36, worldY=33, posX=108, posY=62},          --House [1]
+            
+            {worldX=36, worldY=33, posX=15, posY=138},          --House [1]
+            {worldX=35, worldY=33, posX=291, posY=139},         --House [1]
+            {worldX=36, worldY=33, posX=10, posY=121},          --House [1]
+            {worldX=35, worldY=33, posX=292, posY=118},         --House [1]
+            {worldX=36, worldY=33, posX=11, posY=91},           --House [1]
+            -- {worldX=35, worldY=33, posX=293, posY=85},           --House [1] (Condemned)
+            {worldX=35, worldY=33, posX=274, posY=80},           --House [1]
+            {worldX=35, worldY=33, posX=280, posY=58},           --House [1]
+            
+            {worldX=35, worldY=33, posX=239, posY=93},           --House [1]
+            {worldX=35, worldY=33, posX=224, posY=85},           --House [1]
+            {worldX=35, worldY=33, posX=222, posY=63},           --House [1]
 
         },
     }
